@@ -111,7 +111,7 @@ def main():
     
     # Output the script and HTML files for the project
     for f in data['files']:
-        if f['type'] == 'server_js': ext = '.js'
+        if f['type'] == 'server_js': ext = '.gs'
         elif f['type'] == 'html': ext = '.html'
         else: ext = ''
         
