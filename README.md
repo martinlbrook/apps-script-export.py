@@ -4,6 +4,7 @@ apps-script-export.py
 A Python script to export the contents of a Google Apps Script project to
 disk.
 
+
 Usage
 -----
 
@@ -13,3 +14,7 @@ Developers Console. For more details, see the
 [Python Quickstart](https://developers.google.com/drive/web/quickstart/python).
 
 
+License
+-------
+
+This script is [licensed under the Apache License, Version 2.0](LICENSE).
